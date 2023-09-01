@@ -1,3 +1,3 @@
 # Classifier-Tools
 
-Simple implementations of classifiers using third party libraries
+Simple implementations of classifiers that I often use with third party libraries
